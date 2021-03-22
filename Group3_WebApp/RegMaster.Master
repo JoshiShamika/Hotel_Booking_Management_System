@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="RegMaster.master.cs" Inherits="Group3_WebApp.RegMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="HomeStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="tablebody">
+            <tr>
+                <td>
+                    <h2>Cheap Stay</h2>
+
+                </td>
+            </tr>
+
+            <tr class="menu">
+                <td>
+
+                    <ul>
+		                <li><a href="HomePage.aspx">Home</a></li>
+		                <li><a href="LoginPage.aspx">Login</a></li>
+		                <li><a href="UserReg.aspx">User Registration</a></li>
+		                <li><a href="HotelReg.aspx">Hotel Registration</a></li>
+		                <li><a href="#">Contact Us</a></li>
+	                </ul>
+                </td>
+            </tr>
+        
+            <tr>
+                <td><br /></td>
+            </tr>
+            <tr class="content" style="background-color:antiquewhite;">
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr class="footer">
+                <td>
+                    <p>Copyright© 2016 Group3. All rights reserved</p>
+
+                </td>
+            </tr>
+        </table>
+
+    </div>
+    </form>
+</body>
+</html>

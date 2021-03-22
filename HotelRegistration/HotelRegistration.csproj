@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EE124A9-4789-427F-855E-A3D5FA3E09FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HotelRegistration</RootNamespace>
+    <AssemblyName>HotelRegistration</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Group3_BLL">
+      <HintPath>..\Group3_BLL\bin\Debug\Group3_BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Group3_Dal">
+      <HintPath>..\Group3_BLL\bin\Debug\Group3_Dal.dll</HintPath>
+    </Reference>
+    <Reference Include="Group3_entity">
+      <HintPath>..\Group3_BLL\bin\Debug\Group3_entity.dll</HintPath>
+    </Reference>
+    <Reference Include="Group3_Exception">
+      <HintPath>..\Group3_BLL\bin\Debug\Group3_Exception.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHotelList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHotelList.Designer.cs">
+      <DependentUpon>AdminHotelList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUserList.Designer.cs">
+      <DependentUpon>AdminUserList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bdetails.Designer.cs">
+      <DependentUpon>Bdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeView.Designer.cs">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HotelProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HotelProfile.Designer.cs">
+      <DependentUpon>HotelProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HotelReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HotelReg.Designer.cs">
+      <DependentUpon>HotelReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HotelViewRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HotelViewRoom.Designer.cs">
+      <DependentUpon>HotelViewRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RDetails.Designer.cs">
+      <DependentUpon>RDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserBookings.Designer.cs">
+      <DependentUpon>UserBookings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserHome.Designer.cs">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHotelSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserHotelSearch.Designer.cs">
+      <DependentUpon>UserHotelSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserReg.Designer.cs">
+      <DependentUpon>UserReg.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHotelList.resx">
+      <DependentUpon>AdminHotelList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUserList.resx">
+      <DependentUpon>AdminUserList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bdetails.resx">
+      <DependentUpon>Bdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeView.resx">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HotelProfile.resx">
+      <DependentUpon>HotelProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HotelReg.resx">
+      <DependentUpon>HotelReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HotelViewRoom.resx">
+      <DependentUpon>HotelViewRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RDetails.resx">
+      <DependentUpon>RDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserBookings.resx">
+      <DependentUpon>UserBookings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserHome.resx">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserHotelSearch.resx">
+      <DependentUpon>UserHotelSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserReg.resx">
+      <DependentUpon>UserReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

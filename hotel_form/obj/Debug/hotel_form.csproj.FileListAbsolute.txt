@@ -1,0 +1,9 @@
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\bin\Debug\hotel_form.exe.config
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\bin\Debug\hotel_form.exe
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\bin\Debug\hotel_form.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.csprojResolveAssemblyReference.cache
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.frm_hotelRegistration.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.Properties.Resources.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.csproj.GenerateResource.Cache
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.exe
+E:\Project\GROUP 3_MINI PROJECT\winform\home\hotel_form\obj\Debug\hotel_form.pdb

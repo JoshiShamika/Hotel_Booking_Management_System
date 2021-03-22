@@ -1,0 +1,42 @@
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.dll.config
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.dll.config
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_WebApp.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\bin\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_WebApp.dll.config
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_WebApp.pdb
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\bin\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.dll
+C:\Users\chnsiptrg10\Desktop\group3project\winform\home\Group3_WebApp\obj\Debug\Group3_WebApp.pdb

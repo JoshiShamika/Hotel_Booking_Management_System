@@ -1,0 +1,250 @@
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelHome.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+E:\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelHome.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.BookingsView.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+C:\Users\chnsiptrg10\Desktop\Group3 ki galti se\Project\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+C:\Users\chnsiptrg10\Desktop\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+C:\Users\chnsiptrg10\Desktop\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+\\10.219.34.196\ForProject\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+E:\Group3_HBMSProjectSubmission\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe.config
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.exe
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\HotelRegistration.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_BLL.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Dal.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AboutUs.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHome.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminHotelList.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.AdminUserList.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Bdetails.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomePage.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HomeView.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelProfile.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelReg.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.HotelViewRoom.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.LogIn.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.Properties.Resources.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.RDetails.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserBookings.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHome.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserHotelSearch.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserProfile.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.UserReg.resources
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\HotelRegistration\obj\Debug\HotelRegistration.csproj.GenerateResource.Cache

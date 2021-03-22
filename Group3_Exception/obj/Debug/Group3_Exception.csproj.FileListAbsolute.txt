@@ -1,0 +1,35 @@
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.dll
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.pdb
+E:\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.pdb
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.csprojResolveAssemblyReference.cache
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.dll
+E:\New folder\Project\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_Exception.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\bin\Debug\Group3_entity.pdb
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.csprojResolveAssemblyReference.cache
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.dll
+C:\Users\chnsiptrg10\Desktop\Mini_Project_All_docx\FFIIINAL PROJECT\newhbms\GROUP 3_MINI PROJECT\winform\home\Group3_Exception\obj\Debug\Group3_Exception.pdb
